@@ -1,0 +1,11 @@
+Possui Integração com SGIs do mercado?,Possui interface similar a SGIs do mercado?,Pode possuir diferentes contextos de identidade?,Possui restrições para configuração de conta?,Name
+1,1,1,1,APF
+1,0,0,0,BPF
+1,1,0,0,BPF
+1,1,1,0,BPF
+1,1,0,1,APF
+0,1,1,1,APF
+0,0,1,1,APF
+1,0,1,1,APF
+1,0,1,0,N/A
+1,0,0,1,BPF
